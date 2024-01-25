@@ -13,4 +13,4 @@ preview: https://www.youtube.com/watch?v=7ilp6iziQLE
 
 **made w/ love by pollo from brazil S2**
 
-honor mention: [master](https://github.com/kasp4rov) (me apresentou essa lib), [vithor](https://github.com/Vith0r) (me deu uma noção de hooking)
+honor mention: [master](https://github.com/kasp4rov) (me apresentou essa lib), [vithor](https://github.com/Vith0r) (me ajudou com hooking)
