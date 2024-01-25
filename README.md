@@ -1,4 +1,4 @@
-# Dopamine-RootKit-
+# Dopamine-RootKit
 userland rootkit that hides process, files and directorys
 
 im just going to leave it public because there are many better ones than mine
