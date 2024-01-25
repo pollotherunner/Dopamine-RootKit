@@ -1,0 +1,3 @@
+﻿  main.cpp
+IAT Hook.obj : error LNK2019: símbolo externo não resolvido, __imp_StrStrIA, referenciado na função "private: static void * __cdecl IAT::GetCurrentProcessModule(void)" (?GetCurrentProcessModule@IAT@@CAPEAXXZ)
+C:\Users\pollotherunner\source\repos\IAT\x64\Debug\IAT.exe : fatal error LNK1120: 1 externo não resolvidos

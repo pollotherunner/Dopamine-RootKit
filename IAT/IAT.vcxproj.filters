@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="IAT lib\IAT Hook.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Menage Hooks\hooks.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IAT lib\IAT Hook.h" />
+    <ClInclude Include="includes.hpp" />
+    <ClInclude Include="WinStruct.hpp" />
+    <ClInclude Include="Menage Hooks\hooks.hpp" />
+  </ItemGroup>
+</Project>

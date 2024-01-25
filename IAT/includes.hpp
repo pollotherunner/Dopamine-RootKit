@@ -1,0 +1,6 @@
+#include "Windows.h"
+#include "iostream"
+#include "IAT lib/IAT Hook.h"
+#include "Shlwapi.h"
+#include "WinStruct.hpp"
+#include "Menage Hooks/hooks.hpp"
