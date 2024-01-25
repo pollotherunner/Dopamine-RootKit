@@ -9,4 +9,6 @@ i use a hooking library other than the standards, so i il give credit to the cre
 * Hide directorys
 * Hide processes
 
+preview: https://www.youtube.com/watch?v=7ilp6iziQLE
+
 **made w/ love by pollo from brazil S2**
